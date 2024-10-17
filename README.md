@@ -1,9 +1,9 @@
-# 👨‍💻 **Dentinho** 
+# 🗿🍷 **Dentinho** 
 
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/seu-usuario)](https://github.com/seu-usuario)
 [![Website Badge](https://img.shields.io/badge/-Website-brightgreen?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://dentinhojs.github.io/meu-portifolio)](https://dentinhojs.github.io/meu-portifolio)
 
-## 🧑‍🚀 Sobre Mim
+## 🥷 Sobre Mim
 Desde pequeno, sempre tive uma quedinha por robótica e tecnologia. A programação apareceu depois, como uma forma de transformar essas paixões em soluções reais. Hoje, desenvolvo websites e crio automações e bots em Node.js. Se você está pensando que talvez use o ChatGPT pra facilitar as coisas... bom, até poderia (ironia, ok?), e talvez eu use, caso precise, mas o que eu realmente curto é fazer tudo com dedicação e criatividade. Se você precisa de um site incrível, estou aqui pra te ajudar!
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
