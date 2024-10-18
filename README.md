@@ -51,14 +51,13 @@ Meu portfólio online, exibindo projetos, habilidades e contatos, desenvolvido c
 
 ## 📈 Estatísticas do GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Dentinho&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Dentinho&layout=compact&theme=radical)
 
 ---
 
 ### Redes Sociais
 
-[![Instagram](https://img.shields.io/badge/Instagram-@seu_usuario-E1306C?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/seu_usuario/)
-[![TikTok](https://img.shields.io/badge/TikTok-@seu_usuario-69C9D0?style=flat-square&logo=TikTok&logoColor=white)](https://www.tiktok.com/@seu_usuario)
-[![Discord](https://img.shields.io/badge/Discord-seu_usuario-7289DA?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/seu_link)
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/italo__almeida_/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/invite/4FdwBB8VJW)
